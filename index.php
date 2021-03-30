@@ -8,7 +8,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
     <!-- Title -->
-    <title> Rahul_Kumar</title>
+    <title> Rahul_Kumar - Web & Graphic Designer</title>
 
     <!-- CSS Plugins -->
     <link rel="stylesheet" href="assets/css/all.css">
@@ -119,6 +119,11 @@
                                     <li>
                                         <a href="https://github.com/suman706">
                                             <i class="fab fa-github"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://api.whatsapp.com/send?phone=919523220108&amp;text=Hi there! I have a question :)">
+                                            <i class="fab fa-whatsapp "></i>
                                         </a>
                                     </li>
                             </ul>
@@ -288,6 +293,16 @@
                             <!--item 2-->
                             <div class="item">
                                 <div class="content">
+                                    <h6 class="mb-0">Accountant & Back Office
+                                        <span class="text-muted"> - </span> The Prime Academy</h6>
+                                    <small class="text-muted">2019 - present</small>
+                                    <p class="pt-15 mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit praesentium aut repellendus rem non repudiandae
+                                    sint dolor illo officia dignissimos.</p>
+                                </div>
+                            </div>
+                            <!--item 3-->
+                            <div class="item">
+                                <div class="content">
                                     <h6 class="mb-0">Data Entry Operator
                                         <span class="text-muted"> - </span> Nice Computer Education</h6>
                                     <small class="text-muted">2016 - 2018</small>
@@ -295,16 +310,6 @@
                                     sint dolor illo officia dignissimos.</p>
                                 </div>
                             </div>
-                            <!--item 3-->
-                            <!-- <div class="item">
-                                <div class="content">
-                                    <h6 class="mb-0">junoir web developer
-                                        <span class="text-muted"> - </span> Google</h6>
-                                    <small class="text-muted">2015 - 2016</small>
-                                    <p class="pt-15 mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit praesentium aut repellendus rem non repudiandae
-                                    sint dolor illo officia dignissimos.</p>
-                                </div>
-                            </div> -->
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -316,9 +321,8 @@
                                     <h6 class="mb-0">Web Development
                                         <span class="text-muted"> - </span> Khabai Tech</h6>
                                     <small class="text-muted">2019 - 2020</small>
-                                    <!-- <p class="pt-15 mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit praesentium aut repellendus rem non repudiandae
-                                        sint dolor illo officia dignissimos.
-                                    </p> -->
+                                    <p class="pt-15 mb-0">Khabai Tech
+                                    </p>
                                 </div>
                             </div>
                                         
@@ -328,8 +332,7 @@
                                     <h6 class="mb-0">Bachlor Degree
                                         <span class="text-muted"> - </span> J.P University</h6>
                                     <small class="text-muted">2014 - 2017 </small>
-                                    <!-- <p class=" pt-15 mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit praesentium aut repellendus rem non repudiandae
-                                    sint dolor illo officia dignissimos.</p> -->
+                                    <p class=" pt-15 mb-0">Jai Prakash University, Chhapra</p>
                                 </div>
                             </div>
                             <!--item 3-->
@@ -338,8 +341,7 @@
                                     <h6 class="mb-0">Intermediate
                                         <span class="text-muted"> - </span> B.S.E.B, PATNA</h6>
                                     <small class="text-muted ">2012 - 2014</small>
-                                    <!-- <p class="pt-15 mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit praesentium aut repellendus rem non repudiandae
-                                    sint dolor illo officia dignissimos.</p> -->
+                                    <p class="pt-15 mb-0">Y.N.College, Dighwara</p>
                                 </div>
                             </div>
                             <!--item 4-->
@@ -348,8 +350,7 @@
                                     <h6 class="mb-0">Matriculation
                                         <span class="text-muted"> - </span> B.S.E.B, PATNA</h6>
                                     <small class="text-muted ">2011 - 2012</small>
-                                    <!-- <p class="pt-15 mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit praesentium aut repellendus rem non repudiandae
-                                    sint dolor illo officia dignissimos.</p> -->
+                                    <p class="pt-15 mb-0">K.P.S.P. High School, Gangajal, Sonpur</p>
                                 </div>
                             </div>
                         </div>
@@ -377,10 +378,9 @@
                                <h2>01</h2>
                             </div>
                             <div class="content ">
-                                <h5 class="mt-15 mb-10">Photography</h5>
+                                <h5 class="mt-15 mb-10">Adobe Photoshop</h5>
                                 <p class="mb-0">
-                                     Lorem ipsum dolor sit amet consectetuer 
-                                     adipiscing elit aenean commodo ligula eget.
+                                     I've craze of click picture because today graphic is image of creativity which is used to create beautiful image.
                                 </p>
                             </div>
                         </div>
@@ -394,8 +394,7 @@
                             <div class="content">
                                 <h5 class="mt-15 mb-10">Web Design</h5>
                                 <p class="mb-0">
-                                     Lorem ipsum dolor sit amet consectetuer
-                                      adipiscing elit aenean commodo ligula eget.</p>
+                                     I've craze of learning codes because today coding is language of creativity which is used to create computer websites.</p>
                             </div>
                         </div>
                     </div>
@@ -407,8 +406,7 @@
                             </div>
                             <div class="content">
                                 <h5 class=" mt-15 mb-10">Web Development</h5>
-                                <p class="mb-0"> Lorem ipsum dolor sit amet 
-                                    consectetuer adipiscing elit aenean commodo ligula eget.</p>
+                                <p class="mb-0"> I've craze of learning codes because today coding is language of creativity which is used to create computer websites.</p>
                             </div>
                         </div>
                     </div>
@@ -419,8 +417,10 @@
                                 <h2>04</h2>
                             </div>
                             <div class="content">
-                                <h5 class="mt-15 mb-10">Graphic Design</h5>
-                                <p class="mb-0"> Lorem ipsum dolor sit amet consectetuer adipiscing elit aenean commodo ligula eget.</p>
+                                <h5 class="mt-15 mb-10">Digital Marketing</h5>
+                                <p class="mb-0"> Google only loves you when everyone else loves you first.
+                                Reach all your goals in E-Business.
+                                Improve your E-strategy.</p>
                             </div>
                         </div>
                     </div>
@@ -763,7 +763,7 @@
                 </div>
                 <div class="row">
                     <div class="col-lg-6">
-                        <form action="https://mariama.netlify.app/html/assets/php/mail.php" method="post" id="main_contact_form" class="form contact_form ">
+                        <form action="<?php echo $_SERVER['PHP_SELF'];?>" method="post" id="main_contact_form" class="form contact_form ">
                             <div class="alert alert-success contact_msg " style="display: none" role="alert">
                                 Your message was sent successfully.
                             </div>       
@@ -790,28 +790,37 @@
 
                         </form>
                     </div>
+                    <?php
+                       if(isset($_POST['submit'])){
+                       $to = "skrk8102@gmail.com"
+                       $name = $_POST['name'];
+                       $email = $_POST['email'];
+                       $subject = $_POST['subject'];
+                       $message = $_POST['message'];
+
+                       $headers = "From : $from";
+
+                       mail($to, $name, $subject, $message,  $headers)
+                   }  
+                    ?>
                     <!--Contact -info -->
                     <div class="col-lg-6">
                         <h5 >Let's talk about everything!</h5>
-                        <p class=" mb-30">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore. Lorem
-                            ipsum dolor sit amet, consectetuer adipiscing elit.
-                             Lorem ipsum dolor sit amet, consectetuer adipiscing elit</p>
+                        <p class=" mb-30">I belive in Transforming Lives Digitally.I always try to solve any  problem that comes across. Most of time I spend on my study and I always try to learn new things.
+
+                        I belive that I can do everything related to my work because nothing is impossible.</p>
                         <div class="contact-info">
                             <div class="item mb-20">
                                 <p class="font-w-700 mb-0">Phone: </P>
-                                <p class="mb-0"><i class="fas fa-phone base-color"></i>+113-804-9098</p>
+                                <p class="mb-0"><i class="fas fa-phone base-color"></i><a href="tel:+916206823426"></a>+91 620-6823-426</p>
                             </div>
                             <div class="item mb-20">
                                 <p class="font-w-700 mb-0">Email: </p>
-                                <p class="mb-0"><i class="fas fa-envelope base-color"> </i> contact@mariam.com</p>                                 
+                                <p class="mb-0"><i class="fas fa-envelope base-color"> </i><a href="mailto:skrk8102@gmail.com"></a> skrk8102@gmail.com</p>                                 
                             </div>
                             <div class="item mb-20">
                                 <p class=" font-w-700 mb-0">Adress: </p>
-                                <p class="mb-0"><i class="fas fa-map-marker-alt base-color"> </i>1000 Proctor St USA.</p>
-                            </div>
-                            <div class="item">
-                                <p class="font-w-700 mb-0">Skybe: </p>
-                                <p class="mb-0"> <i class="fab fab fa-skype base-color"> </i>mariam.wallas</p>
+                                <p class="mb-0"><i class="fas fa-map-marker-alt base-color"> </i>Chausiya, Sonpur, Saran (Bihar)</p>
                             </div>
                         </div>
                     </div>
@@ -824,7 +833,7 @@
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-12">
-                        <p class="text-center mb-0">© 2021 Mariam Wallas , Are Right All Resereved.</p>
+                        <p class="text-center mb-0">© 2021 Rahul Suman , Are Right All Resereved.</p>
                     </div>
                 </div>
             </div>
@@ -833,11 +842,12 @@
         <!--social-media-->
         <div class="social-footer">
             <ul class="list-inline">
-                <li><a href="#"><i class="fab fa-facebook-f "></i></a></li>
-                <li><a href="#"><i class="fab fa-twitter "></i></a></li>
-                <li><a href="#"><i class="fab fa-instagram "></i></a></li>
-                <li><a href="#"><i class="fab fa-dribbble "></i></a></li>
-                <li><a href="#"><i class="fab fa-behance"></i></a></li>
+                <li><a href="https://www.facebook.com/mrahulsuman"><i class="fab fa-facebook-f "></i></a></li>
+                <li><a href="https://twitter.com/skrk8102"><i class="fab fa-twitter "></i></a></li>
+                <li><a href="https://www.instagram.com/rahulsuman8102/"><i class="fab fa-instagram "></i></a></li>
+                <li><a href="https://api.whatsapp.com/send?phone=919523220108&amp;text=Hi there! I have a question :)"><i class="fab fa-whatsapp "></i></a></li>
+                <li><a href="https://www.linkedin.com/in/rahul-kumar-seo-analyst/"><i class="fab fa-linkedin"></i></a></li>
+                <li><a href="https://github.com/suman706"><i class="fab fa-github"></i></a></li>
             </ul>
         </div>
     </div>
@@ -861,7 +871,4 @@
     <script src="assets/js/main.js"></script>
 
 </body>
-
-
-<!-- Mirrored from mariama.netlify.app/html/index-dark.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 26 Mar 2021 13:27:53 GMT -->
 </html>

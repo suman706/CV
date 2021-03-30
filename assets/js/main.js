@@ -1,9 +1,4 @@
-/* -----------------------------------------------
-					Js Main
---------------------------------------------------
-    Template Name: Mariam - Personal Portfolio Template
---------------------------------------------------
-
+/* ---------------------------------
 Table of Content
 
 	. Preloader
@@ -13,7 +8,6 @@ Table of Content
     . Testimonials
 	. All Functions
 
- 
 ----------------------------------- */
 (function ($) {
     "use strict";
