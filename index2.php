@@ -798,7 +798,7 @@
                        $subject = $_POST['subject'];
                        $message = $_POST['message'];
 
-                       $headers = "From : $from";
+                       $headers = "("From : $from";
 
                        mail($to, $name, $subject, $message,  $headers)
                    }  
